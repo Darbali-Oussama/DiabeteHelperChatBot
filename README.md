@@ -51,4 +51,3 @@ Le projet "<b><i>Diabete Helper Chatbot</i></b>" est une application JEE intégr
 4. Création de compte.
 5. Connexion.
 6. Interagir avec le chatbot.
-
